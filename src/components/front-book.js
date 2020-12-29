@@ -26,7 +26,7 @@ const MidBook = (props) => {
                             </h1>
 
                             <p>
-                            Forgotten citizens of all ages, races, creeds and sexual orientations have woken up to the fact that they have been manipulated by greedy power mongering entities, who thrive on dividing them to benefit their political agendas with the goal of garnering votes. These wealthy Elitists are destroying our Constitution and taking away our American Dream!
+                            Forgotten citizens of all ages, races, creeds, and sexual orientations have woken up to the fact that they have been manipulated by greedy power-mongering entities, who thrive on dividing them to benefit their political agendas with the goal of garnering votes. These wealthy elitists are destroying our Constitution and taking away our American dream!
                             </p>
 
                             <button className="btn-book-featured">

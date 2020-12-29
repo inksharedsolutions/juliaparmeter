@@ -37,13 +37,17 @@ const ATB = (props) => {
                         <BookInfo
                             data={{
                                 title: `Forgotten Men and Women`,
-                                spanFirst: `Voting to save American Dream`,
+                                spanFirst: `Voting to save the American Dream`,
                                 imgSrc: Book1,
                                 id: 'forgotten-men-and-women',
                                 content:
                                     `
                                         <p>
-                                        Forgotten citizens of all ages, races, creeds and sexual orientations have woken up to the fact that they have been manipulated by greedy power mongering entities, who thrive on dividing them to benefit their political agendas with the goal of garnering votes. These wealthy Elitists are destroying our Constitution and taking away our American Dream! “We the People” were losing sight of our common values and the very essence of what makes us love this great country. It is time to “mend some fences” and get back to the business of being a nation “of and for the people”. As we reclaim our government, let us unite as Patriots fighting toward our mutual desire of Liberty and Justice for all!
+                                            Forgotten citizens of all ages, races, creeds, and sexual orientations have woken up to the fact that they have been manipulated by greedy power-mongering entities, who thrive on dividing them to benefit their political agendas with the goal of garnering votes. These wealthy elitists are destroying our Constitution and taking away our American dream!
+                                        </p>
+                                        <br/>
+                                        <p>
+                                            "We the People" were losing sight of our common values and the very essence of what makes us love this great country. It is time to mend some fences and get back to the business of being a nation of and for the people. As we reclaim our government, let us unite as patriots fighting toward our mutual desire of liberty and justice for all!
                                         </p>
 
                                     `,

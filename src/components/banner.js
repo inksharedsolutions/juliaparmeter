@@ -17,7 +17,7 @@ const Banner = () => {
 
                                 <p className="right-sub-text">
                                     <span>
-                                        Voting to save American Dream
+                                        Voting to save the American Dream
                                    </span>
                                 </p>
 
